@@ -62,9 +62,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Gutenberg](https://wordpress.org/plugins/gutenberg/) - The new post and page building experience will make writing rich posts effortless, making it easy to do what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.
 
 #### SEO
-
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files. 
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin. 
+* [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/) - Use All in One SEO Pack to optimize your WordPress site for SEO
+* [Google XML Sitemaps] (https://wordpress.org/plugins/google-sitemap-generator/) - Use this plugin to greatly improve SEO to create special XML sitemaps which will help search engines like Google, Bing, Yahoo and Ask.com to better index your site.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - This plugin will monitor your blog looking for broken links and let you know if any are found.
 
 #### Dev Plugins
