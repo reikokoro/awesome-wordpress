@@ -120,7 +120,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Polaroid Gallery](https://wordpress.org/plugins/polaroid-gallery/) - Polaroid Gallery is a CSS3 & jQuery Image Gallery plugin for WordPress Media Library. It is used to overlay images as polaroid pictures on the current page or post and uses WordPress Media Library. Using Polaroid Gallery you add unique view for your blog posts. Polaroid Gallery adds feeling of old good times.
 
 #### Performance
-
+*[W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) improves the SEO and user experience of your site by increasing website performance, reducing download times via features like content delivery network (CDN) integration.
+*[WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) This plugin generates static html files from your dynamic WordPress 
+*[Better WordPress Minify](https://wordpress.org/plugins/bwp-minify/) Allows you to combine and minify your CSS and JS files to improve page load time
+*[BJ Lazy Load](https://wordpress.org/plugins/bj-lazy-load/) This plugin replaces all your post images, post thumbnails, gravatar images and content iframes with a placeholder and loads the content as it gets close to enter the browser window when the visitor scrolls the page
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - Simple but effective plugin allows you to extensively clean up your WordPress database and optimize it without doing manual queries. 
 * [P3](https://wordpress.org/plugins/p3-profiler/) - This plugin creates a profile of your WordPress site's plugins' performance by measuring their impact on your site's load time.  Often times, WordPress sites load slowly because of poorly configured plugins or because there are so many of them. By using the P3 plugin, you can narrow down anything causing slowness on your site.
 * [Plugin Load Filter](https://wordpress.org/plugins/plugin-load-filter/) - Although have installed a lot of plugins, if you do not want to activate for all of the pages, you will be able to deactivate unnecessary plugins of each individual page. Through the filter activation of plugins, you can speed up the display response.
